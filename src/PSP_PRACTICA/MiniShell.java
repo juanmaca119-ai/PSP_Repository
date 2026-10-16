@@ -34,7 +34,7 @@ public class MiniShell {
             Process proceso1 = pb1.start();
             Process proceso2 = pb2.start();
 
-
+        
             //AMPLIACION 3
             Process proceso3 = pb3.start();
 
